@@ -2,6 +2,8 @@
 
 A web-based application designed to assist users in exploring suitable career paths based on their interests, academic background, and technical skills. This project combines a React frontend with a FastAPI backend and is deployed on Render.
 
+<b>Protoype for the Project</b>: https://colab.research.google.com/drive/1YsRv90BtDMy61iYbO6F21BWeHCyptJ4H?usp=sharing
+
 <b>Access the live application here:</b>
 👉 https://cp-frontend-lbv0.onrender.com
 
